@@ -1,0 +1,9 @@
+=== COMPRESSION REPORT ===
+
+Input File: raw_input.txt (13 chars)
+
+Output File: compressed.txt (10 chars)
+
+Space Saved: 3 chars (23.08%)
+
+Status: SUCCESS
